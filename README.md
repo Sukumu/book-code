@@ -173,3 +173,5 @@ It was very easy to get started, as most of the examples used *curl* to demonstr
 The *curl* command examples was a good starting point and I started to experiment writing equivalent commands as test cases in Java described on the REST API[^rapi] page.
 
 [^rapi]: http://developer.oanda.com/rest-live/introduction/
+
+[![Run on Repl.it](https://repl.it/badge/github/Sukumu/book-code)](https://repl.it/github/Sukumu/book-code)
