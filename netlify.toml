@@ -1,1 +1,3 @@
-[build]  base    = ""  publish = "target/site"  command = "./mvnw clean site"
+[build]  
+base    = ""  publish = "target/site"  
+command = "./mvnw clean site"
