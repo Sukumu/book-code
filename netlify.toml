@@ -1,4 +1,3 @@
 [build]  
-  base    = "java/buildbot.bsh"
-  publish = "java/"
+  base = "java/buildbot.bsh"
   command = "mvn clean site"
