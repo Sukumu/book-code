@@ -1,4 +1,4 @@
 [build]
-  base = "java/"
+  base = "/java"
   command = "mvn clean install"
   
