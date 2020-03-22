@@ -1,4 +1,4 @@
 [build]
-  base = "/java/buildbot.bsh"
+  base = "java/buildbot.bsh"
   command = "mvn clean install"
   
