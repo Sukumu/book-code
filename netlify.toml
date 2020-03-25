@@ -2,4 +2,5 @@
 
 [build]
   base = "book-code/"
+  publish = "book-code/"
   command = "mvn clean install"
