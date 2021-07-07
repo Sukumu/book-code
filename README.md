@@ -175,3 +175,4 @@ The *curl* command examples was a good starting point and I started to experimen
 [^rapi]: http://developer.oanda.com/rest-live/introduction/
 
 [![Run on Repl.it](https://repl.it/badge/github/Sukumu/book-code)](https://repl.it/github/Sukumu/book-code)
+
